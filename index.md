@@ -49,3 +49,10 @@ The first who has no left space to put the coin - loses.
 
 - Alice may choose to whether start or not (ladies first), can she always win ?
 - If she do, describe alice strategy
+
+
+# MinDiv
+We define the MinDiv of number n to be the minimal number which is divided by all number from 1 to n.
+
+- Give a formula for DivMin(n)
+- How can you calculate MinDiv efficiently?
