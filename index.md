@@ -63,3 +63,8 @@ You are given two linked lists in ROM.
 
 - How can you determine if they merged?
 - Describe a way to find the merge point
+
+
+# Nightmare
+Calculate the exact value of the following expression:
+$$\int_{0}^{\pi/2} ln(4-sin^2(x)) dx$$
