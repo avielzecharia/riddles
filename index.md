@@ -37,7 +37,9 @@ During the day, all lights are turned off in Israel.
 - If you do, how many possible ways there are to light Israel up?
 
 
+# Are you in?
+You are given a polygon in Euclidean space, and a location which describes you.
 
-
+- How can you tell if you are inside or outside the polygon?
 
 
