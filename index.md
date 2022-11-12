@@ -43,3 +43,9 @@ You are given a polygon in Euclidean space, and a location which describes you.
 - How can you tell if you are inside or outside the polygon?
 
 
+# Round Table
+Alice and Bob playing a game. In each turn the player must put a 1₪ coin on a round table. 
+The first who has no left space to put the coin - loses.
+
+- Alice may choose to whether start or not (ladies first), can she always win ?
+- If she do, describe alice strategy
