@@ -1,7 +1,7 @@
 This page contains a collection of exciting (it's all relative 🤓) riddles of different levels from various fields (Math & CS). 
 The specific field/level of each riddle does not mentioned on purpose - **That's why it's fun**.
 
-Tips & Tricks
+## Tips & Tricks
 - Try to reduce the riddle to the primitive case, then exapnd your solution
   - e.g. given a large parameter, starts with the minimal possible one instead of the original
   - Solve it like a dumbass, trying to find the rules
@@ -26,6 +26,7 @@ Enjoy 🎉
 * * *
 
 
+
 # "Let there be light", God.
 In Israel, two cities are called "friends" if they have a common underground electricity infrastructure.
 Each city has a button, which flips the lighting state in the city - due to infrastructure issues, this also changes "friends" state.
@@ -34,3 +35,9 @@ During the day, all lights are turned off in Israel.
 - Night is coming, is it possible to turn on the light in Israel?
 - If you do, describe how can you do that (efficiently?)
 - If you do, how many possible ways there are to light Israel up?
+
+
+
+
+
+
