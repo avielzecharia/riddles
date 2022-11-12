@@ -56,3 +56,10 @@ We define the MinDiv of number n to be the minimal number which is divided by al
 
 - Give a formula for DivMin(n)
 - How can you calculate MinDiv efficiently?
+
+
+# Gen Y
+You are given two linked lists in ROM.
+
+- How can you determine if they merged?
+- Describe a way to find the merge point
