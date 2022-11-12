@@ -1,3 +1,9 @@
+<!-- MathJax -->
+<script type="text/javascript"
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+
 This page contains a collection of exciting (it's all relative 🤓) riddles of different levels from various fields (Math & CS). 
 The specific field/level of each riddle does not mentioned on purpose - **That's why it's fun**.
 
