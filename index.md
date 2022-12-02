@@ -124,3 +124,13 @@ Two friends are lost in the Sahara desert with a single water bottle and a marke
 Alice and Bob each get a number - where one is the square of the other.
 
 - What is the minimal number of bits that must be transferred, in order for them to decide who received the square number?
+
+
+# Hamilton Kindergarten 🏡
+All the children are standing in a circle in the kindergarten yard waiting to play.
+Teacher: "Pass the ball between you, but a child must not receive the ball twice."
+The children: "It's too easy!"
+Teacher: "Okay, each pair of children can only be given in the direction that I will choose in advance."
+The children: "Hmmmm"
+
+- Will the children always be able to succeed in this game?
