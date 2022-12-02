@@ -89,7 +89,7 @@ It is given that every subset of size 2n can be divided into two groups of equal
 You are given a set of balls divided into random number of piles.
 At each step, a ball is taken from each pile and a new pile of balls is created from them (empty piles are ignored).
 
-$$number &nbsp; of &nbsp; balls = T_n = \frac{n(n+1)}{2}$$
+$$\#balls = T_n = \frac{n(n+1)}{2}$$
 ```
 OOO, OOO  ->  OO, OO, OO  ->  OOO, O, O, O  ->  OOOO, OO  ->  OOO, OO, O  ->  OOO, OO, O  ->  ... [Pyramid] ...
 ```
@@ -118,3 +118,9 @@ From now on every passenger who enters will sit in his seat if it is free, other
 Two friends are lost in the Sahara desert with a single water bottle and a marker.
 
 - How can they divide the water equally
+
+
+# A Little bit Communication 📳
+Alice and Bob each get a number - where one is the square of the other.
+
+- What is the minimal number of bits that must be transferred, in order for them to decide who received the square number?
