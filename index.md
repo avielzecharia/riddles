@@ -58,7 +58,7 @@ We define the MinDiv of number n to be the minimal number which is divided by al
 - How can you calculate MinDiv efficiently?
 
 
-# Gen Y
+# Gen-Y
 You are given two linked lists in ROM.
 
 - How can you determine if they merged?
@@ -67,6 +67,14 @@ You are given two linked lists in ROM.
 
 # Nightmare
 Calculate the exact value of the following expression:
+
 <p>
 $$\int_{0}^{\pi/2} ln(4-sin^2(x)) dx$$
 </p>
+
+
+# Drunk Fly
+Two subway trains of distance S are moving toward each other at constant speed. 
+A poor fly got stuck between them and flew back and forth at constant speed.
+
+- What is the distance the fly will travel until it crush?
