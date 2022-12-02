@@ -137,6 +137,14 @@ The children: "Hmmmm"
 
 
 # Rise From the Ashes #️⃣
-$$HASH(x) = SHA256(x) mod n$$
+$$HASH(x) = SHA-256(x)%n$$
 
 - Find a collision with constant memory and linear time complexity?
+
+
+# Cover Me ! 🪖
+Google has a server farm where each server targets a different market.
+Therefore, it is less likely that two servers will be hacked on the same day. 
+Assuming that a server has been hacked, we would like to restore it to the state of the beginning of the day.
+
+- How can you ensure such a backup for the server farm given a single backup server (efficiently)?
