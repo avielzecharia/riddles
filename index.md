@@ -67,6 +67,6 @@ You are given two linked lists in ROM.
 
 # Nightmare
 Calculate the exact value of the following expression:
-```math
+<p>
 $$\int_{0}^{\pi/2} ln(4-sin^2(x)) dx$$
-```
+</p>
