@@ -77,4 +77,11 @@ $$\int_{0}^{\pi/2} ln(4-sin^2(x)) dx$$
 Two subway trains of distance S are moving toward each other at constant speed. 
 A poor fly got stuck between them and flew back and forth at constant speed.
 
-- What is the distance the fly will travel until it crush?
+- What is the distance the fly will travel until it crashes?
+
+
+# 50-50
+Let S be a group of numbers of size 2n+1.
+It is given that every subset of size 2n can be divided into two groups of equal size and sum.
+
+- Prove that all S members are equal
