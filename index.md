@@ -52,9 +52,9 @@ The first who has no left space to put the coin - loses.
 
 
 # MinDiv 🔢
-We define the MinDiv of number \(n\) to be the minimal number which is divided by all number from \(1\) to \(n\).
+We define the MinDiv of number n to be the minimal number which is divided by all number from 1 to n.
 
-- Give a formula for \(DivMin(n)\)
+- Give a formula for DivMin(n)
 - How can you calculate MinDiv efficiently?
 
 
@@ -79,15 +79,17 @@ A poor fly got stuck between them and flew back and forth at constant speed.
 
 
 # 50-50 🌓
-Let \(S\) be a group of numbers of size \(2n+1\).
-It is given that every subset of size \(2n\) can be divided into two groups of equal size and sum.
+Let S be a group of numbers of size 2n+1.
+It is given that every subset of size 2n can be divided into two groups of equal size and sum.
 
-- Prove that all \(S\) members are equal
+- Prove that all S members are equal
 
 
 # Building Pyramids 📐
-You are given a set of \(T_n = \frac{n(n+1)}{2}\) balls divided into random number of piles.
+You are given a set of balls divided into random number of piles.
 At each step, a ball is taken from each pile and a new pile of balls is created from them (empty piles are ignored).
+
+$$#balls = T_n = \frac{n(n+1)}{2}$$
 ```
 OOO, OOO  ->  OO, OO, OO  ->  OOO, O, O, O  ->  OOOO, OO  ->  OOO, OO, O  ->  OOO, OO, O  ->  ... [Pyramid] ...
 ```
