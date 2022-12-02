@@ -89,12 +89,12 @@ It is given that every subset of size 2n can be divided into two groups of equal
 You are given a set of balls divided into random number of piles.
 At each step, a ball is taken from each pile and a new pile of balls is created from them (empty piles are ignored).
 
-$$number of balls = T_n = \frac{n(n+1)}{2}$$
+$$\#balls = T_n = \frac{n(n+1)}{2}$$
 ```
 OOO, OOO  ->  OO, OO, OO  ->  OOO, O, O, O  ->  OOOO, OO  ->  OOO, OO, O  ->  OOO, OO, O  ->  ... [Pyramid] ...
 ```
 
--Prove that after finite number of steps we will reach the "Pyramid" stable state.
+- Prove that after finite number of steps we will reach the "Pyramid" stable state.
 
 
 # Binary Gold 🥇
@@ -104,3 +104,11 @@ The last one to take coins - wins.
 
 - Alice may choose to whether start or not (ladies first), can she always win?
 - If she do, describe Alice strategy
+
+
+# Low Cost Flight ✈️
+100 passengers board a plane with 100 seats where each passenger has a ticket with their seat number. 
+Unfortunately, the first passenger lost his ticket and he sat in a random seat. 
+From now on every passenger who enters will sit in his seat if it is free, otherwise he will sit in a completely random seat.
+
+- What is the probability that the last passenger wull take his seat?
