@@ -157,3 +157,10 @@ A snail-list is a linked-list which contains a circle.
 - Determine whether the list is a snail-list with linear time complexity.
 - Find the origin of the circle.
   - Analyze your time complexity as a function of tail and circle length.
+
+
+# THE MATRIX 0️⃣
+01-Matrix is a matrix of size nXn which contains zeros and ones. 
+The only permitted operation on a given matrix is flipping bit state of an entire row|column|diagonal.
+
+- Starting from a 0-Matrix, can you get to 0-Matrix with 1 at the top right cell?
