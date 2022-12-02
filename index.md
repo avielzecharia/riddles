@@ -134,3 +134,9 @@ Teacher: "Okay, each pair of children can only be given in the direction that I 
 The children: "Hmmmm"
 
 - Will the children always be able to succeed in this game?
+
+
+# Rise From the Ashes #️⃣
+$$HASH(x) = SHA256(x) mod n$$
+
+- Find a collision with constant memory and linear time complexity?
