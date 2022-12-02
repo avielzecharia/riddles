@@ -9,7 +9,7 @@ The specific field/level of each riddle does not mentioned on purpose - **That's
   - e.g. functiosn, points, graphs, etc.
 - Start with the trivial algorithm, then understand why is it so wastful
 - You are lost
-  - Understand why all existing tricks does not work here, what have been changed ?
+  - Understand why all existing tricks does not work here, what have been changed?
   - Search for related topics on internet
   - Sleep & Shower & Drive with this riddle in your head
   - DO NOT GIVE UP !
@@ -47,8 +47,8 @@ You are given a polygon in Euclidean space, and a location which describes you.
 Alice and Bob playing a game. In each turn the player must put a 1₪ coin on a round table. 
 The first who has no left space to put the coin - loses.
 
-- Alice may choose to whether start or not (ladies first), can she always win ?
-- If she do, describe alice strategy
+- Alice may choose to whether start or not (ladies first), can she always win?
+- If she do, describe Alice strategy
 
 
 # MinDiv 🔢
@@ -89,9 +89,18 @@ It is given that every subset of size 2n can be divided into two groups of equal
 You are given a set of balls divided into random number of piles.
 At each step, a ball is taken from each pile and a new pile of balls is created from them (empty piles are ignored).
 
-$$#balls = T_n = \frac{n(n+1)}{2}$$
+$$number of balls = T_n = \frac{n(n+1)}{2}$$
 ```
 OOO, OOO  ->  OO, OO, OO  ->  OOO, O, O, O  ->  OOOO, OO  ->  OOO, OO, O  ->  OOO, OO, O  ->  ... [Pyramid] ...
 ```
 
 -Prove that after finite number of steps we will reach the "Pyramid" stable state.
+
+
+# Binary Gold 🥇
+Alice and Bob play a game for 100 gold coins.
+In each turn, every player must take a number of coins that is a power of 2.
+The last one to take coins - wins.
+
+- Alice may choose to whether start or not (ladies first), can she always win?
+- If she do, describe Alice strategy
