@@ -137,9 +137,9 @@ The children: "Hmmmm"
 
 
 # Rise From the Ashes #️⃣
-$$HASH(x) = SHA-256(x)%n$$
+$$HASH(x) = SHA256(x) \mod n$$
 
-- Find a collision with constant memory and linear time complexity?
+- Find a collision with constant memory and linear time complexity
 
 
 # Cover Me ! 🪖
@@ -148,3 +148,12 @@ Therefore, it is less likely that two servers will be hacked on the same day.
 Assuming that a server has been hacked, we would like to restore it to the state of the beginning of the day.
 
 - How can you ensure such a backup for the server farm given a single backup server (efficiently)?
+
+
+# Snail 🐌
+You are given a pointer to the head of a linked-list stored in ROM.
+A snail-list is a linked-list which contains a circle.
+
+- Determine whether the list is a snail-list with linear time complexity.
+- Find the origin of the circle.
+  - Analyze your time complexity as a function of tail and circle length.
