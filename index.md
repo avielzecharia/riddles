@@ -1,7 +1,7 @@
 This page contains a collection of exciting (it's all relative 🤓) riddles of different levels from various fields (Math & CS). 
 The specific field/level of each riddle does not mentioned on purpose - **That's why it's fun**.
 
-## Tips & Tricks
+## Tips & Tricks 💡
 - Try to reduce the riddle to the primitive case, then exapnd your solution
   - e.g. given a large parameter, starts with the minimal possible one instead of the original
   - Solve it like a dumbass, trying to find the rules
@@ -27,7 +27,7 @@ Enjoy 🎉
 
 
 
-# "Let there be light", God.
+# "Let there be light", God. 🔦
 In Israel, two cities are called "friends" if they have a common underground electricity infrastructure.
 Each city has a button, which flips the lighting state in the city - due to infrastructure issues, this also changes "friends" state.
 During the day, all lights are turned off in Israel.
@@ -37,13 +37,13 @@ During the day, all lights are turned off in Israel.
 - If you do, how many possible ways there are to light Israel up?
 
 
-# Are you in?
+# Are you in? 🫱🏾‍🫲🏾
 You are given a polygon in Euclidean space, and a location which describes you.
 
 - How can you tell if you are inside or outside the polygon?
 
 
-# Round Table
+# Round Table 🪙
 Alice and Bob playing a game. In each turn the player must put a 1₪ coin on a round table. 
 The first who has no left space to put the coin - loses.
 
@@ -51,21 +51,21 @@ The first who has no left space to put the coin - loses.
 - If she do, describe alice strategy
 
 
-# MinDiv
-We define the MinDiv of number n to be the minimal number which is divided by all number from 1 to n.
+# MinDiv 🔢
+We define the MinDiv of number $n$ to be the minimal number which is divided by all number from $1$ to $n$.
 
-- Give a formula for DivMin(n)
+- Give a formula for $DivMin(n)$
 - How can you calculate MinDiv efficiently?
 
 
-# Gen-Y
+# Gen-Y 👩🏽‍👦🏾
 You are given two linked lists in ROM.
 
 - How can you determine if they merged?
 - Describe a way to find the merge point
 
 
-# Nightmare
+# Nightmare 🌃
 Calculate the exact value of the following expression:
 
 <p>
@@ -73,15 +73,25 @@ $$\int_{0}^{\pi/2} ln(4-sin^2(x)) dx$$
 </p>
 
 
-# Drunk Fly
-Two subway trains of distance S are moving toward each other at constant speed. 
+# Drunk Fly 🪰
+Two subway trains of distance $S$ are moving toward each other at constant speed. 
 A poor fly got stuck between them and flew back and forth at constant speed.
 
 - What is the distance the fly will travel until it crashes?
 
 
-# 50-50
-Let S be a group of numbers of size 2n+1.
-It is given that every subset of size 2n can be divided into two groups of equal size and sum.
+# 50-50 🌓
+Let $S$ be a group of numbers of size $2n+1$.
+It is given that every subset of size $2n$ can be divided into two groups of equal size and sum.
 
-- Prove that all S members are equal
+- Prove that all $S$ members are equal
+
+
+# Building Pyramids 📐
+You are given a set of $T_n = \frac{n(n+1)}{2}$ balls divided into random number of piles.
+At each step, a ball is taken from each pile and a new pile of balls is created from them (empty piles are ignored).
+```
+OOO, OOO  ->  OO, OO, OO  ->  OOO, O, O, O  ->  OOOO, OO  ->  OOO, OO, O  ->  OOO, OO, O  ->  ... [Pyramid] ...
+```
+
+-Prove that after finite number of steps we will reach the "Pyramid" stable state.
