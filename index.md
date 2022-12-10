@@ -197,3 +197,11 @@ The king wants to find the poisoned bottles, and is ready to sacrifice as few of
 - There is 1 poisoned bottle, and 24 hours - find the poisoned bottle!
 - There is 1 poisoned bottle, and 48 hours - find the poisoned bottle!
 - There are 2 poisoned bottles, and 24 hours - find the poisoned bottles!
+
+
+# CS 1.6 🔫
+101 professional gamers are playing together on the awp_india map.
+Each pair of players able to shoot each other, and are at a different distance from any other pair of players.
+At the same time, every player shoots the nearest player to him.
+
+- Will everyone die?
