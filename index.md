@@ -177,6 +177,13 @@ Therefore, the librarian randomly selects a book that is not in its place, and p
 
 # Train to Nowhere 🚋
 The ticket-seller is inside a circular connected set of train cars.
-In every train car there is a lamp that may be turned on/off, note that the initial state of the lamp is unknown.
+In every train car there is a lamp that may be turned on/off. Note that the initial state of the lamp is unknown.
 
 - How can the ticket-seller calculate the length of train (efficienly)?
+
+
+# Broken Board ⬜💥
+You are given a board of size 2nX2n, and a infinite number of rectangles of size 1X2.
+Unfortunately, the board fell and its lower left and upper right corners were broken.
+
+- Can the broken board be tiled?
