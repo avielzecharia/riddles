@@ -184,6 +184,16 @@ In every train car there is a lamp that may be turned on/off. Note that the init
 
 # Broken Board ⬜💥
 You are given a board of size 2nX2n, and a infinite number of rectangles of size 1X2.
-Unfortunately, the board fell and its lower left and upper right corners were broken.
+Unfortunately, the board fell and its lower left and upper right cells were broken.
 
 - Can the broken board be tiled?
+
+
+# Cheers 🍷
+The king has 1000 wine bottles, but some of them are poisoned.
+It is known that the poison takes effect after exactly 24 hours and kills the person who drank even a sip.
+The king wants to find the poisoned bottles, and is ready to sacrifice as few of his servants as possible.
+
+- There is 1 poisoned bottle, and 24 hours - find the poisoned bottle!
+- There is 1 poisoned bottle, and 48 hours - find the poisoned bottle!
+- There are 2 poisoned bottles, and 24 hours - find the poisoned bottles!
