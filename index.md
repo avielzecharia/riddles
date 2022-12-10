@@ -173,3 +173,10 @@ The books are messy and the librarian wants to sort them, but there is no extra 
 Therefore, the librarian randomly selects a book that is not in its place, and places it in the appropriate place.
 
 - Prove that the books will be ordered after finite number of steps.
+
+
+# Train to Nowhere 🚋
+The ticket-seller is inside a circular connected set of train cars.
+In every train car there is a lamp that may be turned on/off, note that the initial state of the lamp is unknown.
+
+- How can the ticket-seller calculate the length of train (efficienly)?
