@@ -164,3 +164,12 @@ A snail-list is a linked-list which contains a circle.
 The only permitted operation on a given matrix is flipping bit state of an entire row|column|diagonal.
 
 - Starting from a 0-Matrix, can you get to 0-Matrix with 1 at the top right cell?
+
+
+# Chaos in the Library 📚
+The library has n books on a shelf capable of containing exactly n books.
+Each book contains a unique number from 1 to n on its cover.
+The books are messy and the librarian wants to sort them, but there is no extra shelf.
+Therefore, the librarian randomly selects a book that is not in its place, and places it in the appropriate place.
+
+- Prove that the books will be ordered after finite number of steps.
