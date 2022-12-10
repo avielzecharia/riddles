@@ -205,3 +205,13 @@ Each pair of players able to shoot each other, and are at a different distance f
 At the same time, every player shoots the nearest player to him.
 
 - Will everyone die?
+
+
+# Exploit 🔑
+You are given a vulnerability which allows you the following primitives:
+1. Writing 65536 consecutive bytes to 0xFFFFFFBFFC000000.
+2. Reading 2 bytes from 0xFFFFFFBFFC000000 plus a secret key which is small than 65536.
+
+Each primitive can be used exactly once.
+
+- Use these two primitives in order to find the secret key.
