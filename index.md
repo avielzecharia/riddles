@@ -221,3 +221,11 @@ Each primitive can be used exactly once.
 On top of the two-dimensional Euclidean space, an unknown amount of ink stains fell, where the sum of their areas is less than 1.
 
 - Prove that it is possible to relocate the axes center so that no point is covered with ink.
+
+
+# Shabbat Candles 🕯️
+Alice and Bob play a two-stage game:
+1. Alice enters a room with n candles in a row. The tester gives Alice a number (smaller than n), and Alice must turn on/off exactly one candle.
+2. Bob enters the same room with n candles, and has to tell the tester what number he gave to Alice.
+
+- Assuming n is a power of 2, can Alice and Bob win the game?
