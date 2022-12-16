@@ -177,7 +177,7 @@ Therefore, the librarian randomly selects a book that is not in its place, and p
 
 # Train to Nowhere 🚋
 The ticket-seller is inside a circular connected set of train cars.
-In every train car there is a lamp that may be turned on/off. Note that the initial state of the lamp is unknown.
+In every train car there is a lamp that may be turned on/off. Note that the initial state of the lamps is unknown.
 
 - How can the ticket-seller calculate the length of train (efficienly)?
 
@@ -210,8 +210,14 @@ At the same time, every player shoots the nearest player to him.
 # Exploit 🔑
 You are given a vulnerability which allows you the following primitives:
 1. Writing 65536 consecutive bytes to 0xFFFFFFBFFC000000.
-2. Reading 2 bytes from 0xFFFFFFBFFC000000 plus a secret key which is small than 65536.
+2. Reading 2 bytes from 0xFFFFFFBFFC000000 + SECRET_KEY, where SECRET_KEY is small than 65536.
 
 Each primitive can be used exactly once.
 
-- Use these two primitives in order to find the secret key.
+- Use these two primitives in order to find the SECRET_KEY.
+
+
+# Ink Everywhere 🦑
+On top of the two-dimensional Euclidean space, an unknown amount of ink stains fell, where the sum of their areas is less than 1.
+
+- Prove that it is possible to relocate the axes center so that no point is covered with ink.
