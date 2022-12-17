@@ -233,7 +233,7 @@ Alice and Bob play a two-stage game:
 
 # Party in Israel 🔪
 A terror attack is going to happen today at the party exactly at midnight.
-The guard received intelligence that the terrorist would enter the party more than half the number of normative entrancesentries until midnight.
+The guard received intelligence that the terrorist would enter the party more than half the number of normative entrances until midnight.
 Unfortunately, the guard has a bad memory and is able to remember only a small number of faces each time.
 
 - Can the guard point out the terrorist exactly at midnight?
