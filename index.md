@@ -229,3 +229,11 @@ Alice and Bob play a two-stage game:
 2. Bob enters the same room with n candles, and has to tell the tester what number he gave to Alice.
 
 - Assuming n is a power of 2, can Alice and Bob win the game?
+
+
+# Party in Israel 🔪
+A terror attack is going to happen today at the party exactly at midnight.
+The guard received intelligence that the terrorist would enter the party more than half the number of normative entrancesentries until midnight.
+Unfortunately, the guard has a bad memory and is able to remember only a small number of faces each time.
+
+- Can the guard point out the terrorist exactly at midnight?
