@@ -237,3 +237,12 @@ The guard received intelligence that the terrorist would enter the party more th
 Unfortunately, the guard has a bad memory and is able to remember only a small number of faces each time.
 
 - Can the guard point out the terrorist exactly at midnight?
+
+
+# Ants 🐜
+100 ants walk in a random direction on a very narrow twig.
+When 2 ants collide, each turns in the opposite direction.
+An ant that reaches the end of the twig - will fall from it and will never return.
+
+- How much time does it get to the twig to be empty?
+- What is the maximum possible number of ants collisions?
