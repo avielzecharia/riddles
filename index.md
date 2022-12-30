@@ -246,3 +246,11 @@ An ant that reaches the end of the twig - will fall from it and will never retur
 
 - How much time does it get to the twig to be empty?
 - What is the maximum possible number of ants collisions?
+
+
+# Thinking outside the box 📦
+Alice and Bob want to win a prize hidden in a random box.
+1. Alice enters a room with 100 boxes in a row where each box has a unique number from 1 to 100. Alice may swap the position of 2 boxes.
+2. Bob enters the room and wants to open the box with the prize. Opening a box costs a single token.
+
+- How can Bob find the prize with minimum token waste?
