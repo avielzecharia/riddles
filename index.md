@@ -6,7 +6,7 @@ The specific field/level of each riddle does not mentioned on purpose - **That's
   - e.g. given a large parameter, starts with the minimal possible one instead of the original
   - Solve it like a dumbass, trying to find the rules
 - Reframe the problem with a workable mathematical model
-  - e.g. functiosn, points, graphs, etc.
+  - e.g. functions, points, graphs, etc.
 - Start with the trivial algorithm, then understand why is it so wastful
 - You are lost
   - Understand why all existing tricks does not work here, what have been changed?
