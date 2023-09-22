@@ -139,7 +139,7 @@ The children: "Hmmmm"
 # Rise From the Ashes #️⃣
 $$HASH(x) = SHA256(x) \mod n$$
 
-- Find a collision with constant memory and linear time complexity
+- Find a collision with constant memory and linear time complexity (in terms of n).
 
 
 # Cover Me ! 🪖
