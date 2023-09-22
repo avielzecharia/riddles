@@ -254,3 +254,14 @@ Alice and Bob want to win a prize hidden in a random box.
 2. Bob enters the room and wants to open the box with the prize. Opening a box costs a single token.
 
 - How can Bob find the prize with minimum token waste?
+
+
+# Nine Lives 🐈
+The veterinarian wants to conduct an experiment aimed to discover the maximum building floor from which a cat can survive a free fall.
+The vet is a bit crazy, and he plans to find out the maximum floor number using a series of a single cat's droppings.
+For example, assuming the cat had only one soul, and the building had 100 floors - The vet had to perform 100 attemps in the worst case (bottom to top).
+
+- Assuming the cat had 2 souls (die only in the second 'too high' attemp), design a strategy with minimal required attemps in the worst case.
+- Can you prove this number to be minimal?
+- What is the complexity of this minimal lower bound for k souls and N floors?
+- What happen where k~logN?
